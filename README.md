@@ -1,2 +1,0 @@
-# ReactUseStateUseEffect
-Created with CodeSandbox
